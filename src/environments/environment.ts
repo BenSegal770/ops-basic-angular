@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'http://13.48.106.206:8080/api'
+  url: 'https://test.techb.net/api'
 };
 
 /*
